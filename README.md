@@ -12,7 +12,7 @@ $ python3 article_gen
 Generate article from files or directories:
 
 ```
-$ python3 article_gen test/ancient/
+$ python3 article_gen text/ancient/
 ```
 
 ## Copyright and License
