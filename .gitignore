@@ -37,5 +37,8 @@ Temporary Items
 build
 debug
 
+# python cache
+__pycache__
+
 # dumps
 dumps
