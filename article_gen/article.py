@@ -2,15 +2,16 @@ import wordlist, wordfreq, sentence
 import random, pickle
 
 class ArticleGen(object):
-    def __init__(self, dump_file='', show_progress=False, separator='', use_weight=True):
+    def __init__(self, dump_file='', show_progress=False, separator='',
+                 use_weight=True, prop_prop=0.5):
         self.__wordlist = wordlist.WordList()
+        self.__word_freq = wordfreq.WordFreq()
         self.__sentence = sentence.SentenceGen()
-        self.__head = {}
-        self.__next_word = {}
         self.dump_file = dump_file
         self.show_progress = show_progress
         self.separator = separator
         self.use_weight = use_weight
+        self.prop_prop = prop_prop
 
     def load(self, file_list):
         self.__wordlist.show_progress = self.show_progress
@@ -18,22 +19,24 @@ class ArticleGen(object):
         if not word_list:
             return False
         else:
-            self.__head, self.__next_word = wordfreq.get_freq(word_list)
-            return True if self.__head and self.__next_word else False
+            self.__word_freq = wordfreq.get_freq(word_list)
+            return True if self.__word_freq else False
 
     def load_dump(self):
         if self.dump_file:
-            with open(self.dump_file, 'rb') as f:
-                hn_list = pickle.load(f)
-            self.__head, self.__next_word = hn_list[0], hn_list[1]
-            return True if self.__head and self.__next_word else False
+            try:
+                with open(self.dump_file, 'rb') as f:
+                    self.__word_freq = pickle.load(f)
+            except:
+                return False
+            return True
         else:
             False
     
     def dump(self):
         if self.dump_file:
             with open(self.dump_file, 'wb') as f:
-                pickle.dump([self.__head, self.__next_word], f)
+                pickle.dump(self.__word_freq, f)
             return True
         else:
             return False
@@ -48,11 +51,15 @@ class ArticleGen(object):
         article = ''
         if not length:
             length = random.randint(10, 50)
-        self.__sentence.use_weight = self.use_weight
         self.__sentence.separator = self.separator
-        if self.__head and self.__next_word:
+        self.__sentence.use_weight = self.use_weight
+        self.__sentence.prop_prop = self.prop_prop
+        self.__sentence.word_freq = self.__word_freq
+        if self.__word_freq:
             for i in range(length):
                 i
-                word = self.__sentence.word_choice(self.__head)
-                article += self.__sentence.next(word, self.__next_word)
+                article += self.__sentence.next()
         return article
+
+if __name__ == '__main__':
+    pass

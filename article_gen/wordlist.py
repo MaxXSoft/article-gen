@@ -1,4 +1,5 @@
 import jieba, os
+from jieba import posseg
 
 jieba.default_logger.setLevel(jieba.logging.INFO)
 
@@ -20,7 +21,7 @@ class WordList(object):
                 if self.show_progress:
                     print('decode error, skipping: %s' % file)
                 txt = ''
-        return jieba.cut(txt)
+        return posseg.cut(txt)
 
     def get_from_list(self, file_list):
         word_list = []

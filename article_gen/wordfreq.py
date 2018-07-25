@@ -1,46 +1,46 @@
-def is_word(word):
-    first = word[0]
-    return '\u4e00' <= first <= '\u9fff' or 'a' <= first.lower() <= 'z' or '0' <= first <= '9'
+class WordFreq(object):
+    def __init__(self, head_word=None, next_word=None,
+                 head_prop=None, next_prop=None, word_prop=None):
+        self.head_word = head_word
+        self.next_word = next_word
+        self.head_prop = head_prop
+        self.next_prop = next_prop
+        self.word_prop = word_prop
+
+    def __bool__(self):
+        return bool(self.head_word and self.next_word and self.head_prop \
+                    and self.next_prop and self.word_prop)
+
+def __inc_dict_dict(d, v0, v1):
+    value = d.get(v0, {})
+    value[v1] = value.get(v1, 0) + 1
+    d[v0] = value
 
 def get_freq(l):
-    next_word = {}
-    head = {}
-    last_word = ''
+    head, next_word = {}, {}
+    head_prop, next_prop = {}, {}
+    word_prop = {}
+    last_word, last_prop = '', ''
     # calculate word freq
-    for word in l:
-        if is_word(word):
-            if last_word:
-                next_list = next_word.get(last_word, {})
-                next_list[word] = next_list.get(word, 0) + 1
-                next_word[last_word] = next_list
-                last_word = word
+    for word, prop in l:
+        word_prop[word] = prop
+        if prop != 'x':
+            if last_word and last_prop:
+                __inc_dict_dict(next_word, last_word, word)
+                __inc_dict_dict(next_prop, last_prop, prop)
+                last_word, last_prop = word, prop
             else:
                 head[word] = head.get(word, 0) + 1
-                last_word = word
+                head_prop[prop] = head_prop.get(prop, 0) + 1
+                last_word, last_prop = word, prop
         else:
-            if last_word:
-                next_list = next_word.get(last_word, {})
-                next_list[word] = next_list.get(word, 0) + 1
-                next_word[last_word] = next_list
-                last_word = ''
-    # reverse word freq dictionary
-    next_word_rev = {}
-    head_rev = {}
-    # reverse next_word
-    for word, d in next_word.items():
-        d_rev = {}
-        for w, count in d.items():
-            l = d_rev.get(count, [])
-            l.append(w)
-            d_rev[count] = l
-        next_word_rev[word] = d_rev
-    # reverse head
-    for word, count in head.items():
-        l = head_rev.get(count, [])
-        l.append(word)
-        head_rev[count] = l
+            if last_word and last_prop:
+                __inc_dict_dict(next_word, last_word, word)
+                __inc_dict_dict(next_prop, last_prop, prop)
+                last_word, last_prop = '', ''
     # return the result
-    return head_rev, next_word_rev
+    return WordFreq(head, next_word,
+                    head_prop, next_prop, word_prop)
 
 if __name__ == '__main__':
     pass
