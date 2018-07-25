@@ -1,0 +1,1689 @@
+灵符「梦想封印」
+梦符「封魔阵」
+魔符「Stardust Reverie」
+恋符「Master Spark」
+月符「Moonlight Ray」
+夜符「Night Bird」
+暗符「Demarcation」
+冰符「Icicle Fall」
+雹符「Hailstorm」
+冻符「Perfect Freeze」
+雪符「Diamond Blizzard」
+华符「芳华绚烂」
+华符「Selaginella 9」
+虹符「彩虹的风铃」
+幻符「华想梦葛」
+彩符「彩雨」
+彩符「彩光乱舞」
+彩符「极彩台风」
+火符「Agni Shine」
+水符「Princess Undine」
+木符「Sylphy Horn」
+土符「Lazy Trilithon」
+金符「Metal Fatigue」
+火符「Agni Shine上级」
+木符「Sylphy Horn上级」
+土符「Lazy Trilithon上级」
+火符「Agni Radiance」
+水符「Bury in Lake」
+木符「Green Storm」
+土符「Trilithon Shake」
+金符「Silver Dragon」
+火&土符「Lava Cromlech」
+木&火符「Forest Blaze」
+水&木符「Water Elf」
+金&水符「Mercury Poison」
+土&金符「Emerald Megalith」
+月符「Silent Selene」
+日符「Royal Flare」
+火水木金土符「贤者之石」
+奇术「Misdirection」
+奇术「幻惑Misdirection」
+幻在「Clock Corpse」
+幻幽「Jack the Ludo Bile」
+幻象「Luna Clock」
+幻世「The World」
+女仆秘技「操弄玩偶」
+女仆秘技「杀人玩偶」
+奇术「Eternal Meek」
+天罚「Star of David」
+神罚「年幼的恶魔之王」
+冥符「红色的冥界」
+狱符「千根针的针山」
+诅咒「弗拉德·特佩斯的诅咒」
+神术「吸血鬼幻想」
+红符「Scarlet Shoot」
+红符「Scarlet Meister」
+「Red Magic」
+「红色的幻想乡」
+禁忌「Cranberry Trap」
+禁忌「Laevatein」
+禁忌「Four of a Kind」
+禁忌「Kagome Kagome」
+禁忌「恋之迷宫」
+禁弹「Starbow Break」
+禁弹「Catadioptric」
+禁弹「刻着过去的钟表」
+秘弹「之后就一个人都没有了吗？」
+QED「495年的波纹」
+灵符「梦想封印 散」
+灵符「梦想封印 集」
+梦符「封魔阵」
+梦符「二重结界」
+魔符「Stardust Reverie」
+魔符「Milky Way」
+恋符「Non-Directional Laser」
+恋符「Master Spark」
+幻符「Indiscriminate」
+幻符「杀人玩偶」
+时符「Perfect Square」
+时符「Private Square」
+冻符「Freeze Actress」
+霜符「Frost Columns」
+寒符「Lingering Cold」
+冬符「Flower Wither Away」
+白符「Undulation Ray」
+怪符「Table Turning」
+仙符「凤凰卵」
+仙符「凤凰展翅」
+式符「飞翔晴明」
+阴阳「道满晴明」
+阴阳「晴明大纹」
+天符「天仙鸣动」
+翔符「飞翔韦驮天」
+童符「护法天童乱舞」
+仙符「尸解永远」
+鬼符「鬼门金神」
+方符「奇门遁甲」
+鬼符「青鬼赤鬼」
+鬼神「飞翔毘沙门天」
+操符「少女文乐」
+苍符「博爱的法兰西人偶」
+苍符「博爱的奥尔良人偶」
+红符「红发的荷兰人偶」
+白符「白垩的俄罗斯人偶」
+暗符「雾之伦敦人偶」
+回符「轮回的西藏人偶」
+雅符「春之京都人偶」
+诅咒「魔彩光的上海人偶」
+诅咒「上吊的蓬莱人偶」
+骚符「Phantom Dinning」
+骚符「Live Poltergeist」
+合葬「Prism Concerto」
+骚葬「Stygian Riverside」
+大合葬「灵车大协奏曲」
+大合葬「灵车大协奏曲改」
+大合葬「灵车大协奏曲怪」
+弦奏「Guarneri del Gesù」
+神弦「Stradivarius」
+伪弦「Pseudo Stradivarius」
+管灵「Hino Phantasm」
+冥管「Ghost Clifford」
+管灵「Ghost Clifford」
+冥键「Fazioli冥奏」
+键灵「Bösendorfer神奏」
+幽鬼剑「妖童饿鬼之断食」
+饿鬼剑「饿鬼道草纸」
+饿王剑「饿鬼十王的报应」
+狱界剑「二百由旬之一闪」
+狱炎剑「业风闪影阵」
+狱神剑「业风神闪斩」
+畜趣剑「无为无策之冥罚」
+修罗剑「现世妄执」
+人界剑「悟入幻想」
+人世剑「大悟显晦」
+人神剑「俗谛常住」
+天上剑「天人之五衰」
+天界剑「七魄忌讳」
+天神剑「三魂七魄」
+六道剑「一念无量劫」
+亡乡「亡我乡 -彷徨的灵魂-」
+亡乡「亡我乡 -宿罪-」
+亡乡「亡我乡 -无道之路-」
+亡乡「亡我乡 -自尽-」
+亡舞「生者必灭之理 -眩惑-」
+亡舞「生者必灭之理 -死蝶-」
+亡舞「生者必灭之理 -毒蛾-」
+亡舞「生者必灭之理 -魔境-」
+华灵「Ghost Butterfly」
+华灵「Swallowtail Butterfly」
+华灵「Deep-Rooted Butterfly」
+华灵「Butterfly Delusion」
+幽曲「Repository of Hirokawa -伪灵-」
+幽曲「Repository of Hirokawa -亡灵-」
+幽曲「Repository of Hirokawa -幻灵-」
+幽曲「Repository of Hirokawa -神灵-」
+樱符「完全墨染的樱花 -封印-」
+樱符「完全墨染的樱花 -亡我-」
+樱符「完全墨染的樱花 -春眠-」
+樱符「完全墨染的樱花 -开花-」
+「反魂蝶 -一分咲-」
+「反魂蝶 -三分咲-」
+「反魂蝶 -五分咲-」
+「反魂蝶 -八分咲-」
+式神「仙狐思念」
+式神「十二神将之宴」
+式辉「狐狸妖怪激光」
+式辉「迷人的四面楚歌」
+式辉「天狐公主 -Illusion-」
+式弹「Ultimate Buddhist」
+式弹「Unilateral Contact」
+「狐狗狸先生的契约」
+幻神「饭纲权现降临」
+式神「前鬼后鬼的守护」
+式神「凭依荼吉尼天」
+结界「梦境与现实的诅咒」
+结界「动与静的均衡」
+结界「光明与黑暗的网目」
+罔两「直球与曲球的梦乡」
+罔两「八云紫的神隐」
+罔两「栖息于禅寺的妖蝶」
+魍魉「二重黑死蝶」
+「人类与妖怪的境界」
+结界「生与死的境界」
+紫奥义「弹幕结界」
+灵符「梦想妙珠」
+神灵「梦想封印」
+梦符「封魔阵」
+神技「八方鬼缚阵」
+宝符「阴阳宝玉」
+宝具「阴阳鬼神玉」
+符之一「梦想妙珠连」
+符之二「阴阳散华」
+符之三「魔净闪结」
+力符「阴阳玉将」
+梦战「幻想之月」
+无题「飞翔于天空的不可思议的巫女」
+恋符「Master Spark」
+魔炮「Final Spark」
+魔符「Stardust Reverie」
+彗星「Blazing Star」
+仪符「Orrery&#39;s Sun」
+天仪「Orrery&#39;s Solar System」
+符之一「Stardust Reverie」
+符之二「Asteroid Belt」
+符之三「Master Spark」
+星符「Dragon Meteor」
+幻符「杀人玩偶」
+幻葬「夜雾幻影杀人鬼」
+时符「Private Square」
+「咲夜的世界」
+伤符「Inscribe Red Soul」
+伤魂「Soul Sculpture」
+符之一「连续杀人玩偶」
+符之二「Check-Maid」
+戏法「极近距离杀人鬼」
+人符「现世斩」
+人鬼「未来永劫斩」
+断命剑「冥想斩」
+断迷剑「迷津慈航斩」
+魂符「幽明的苦轮」
+魂魄「幽明求闻持聪明之法」
+符之一「二重的苦轮」
+符之二「心眼迷想斩」
+符之三「业风神闪斩」
+奥义「西行春风斩」
+魔符「Artful Sacrifice」
+魔操「Return Inanimateness」
+战符「Little Legion」
+战操「Doll&#39;s War」
+咒符「上海人偶」
+诅咒「蓬莱人偶」
+符之一「Artful Chanter」
+符之二「Doll Crusader」
+魔光「Devilry Light Ray」
+火金符「St. Elmo Pillar」
+土水符「Noachian Deluge」
+金木符「Elemental Harvester」
+日符「Royal Flare」
+月符「Silent Selene」
+火水木金土符「贤者之石」
+符之一「St. Elmo Explosion」
+符之二「Deluge Forty Day」
+金土符「Ginger Gust」
+红符「红色不夜城」
+红魔「Scarlet Devil」
+必杀「Heart Break」
+神枪「Spear the Gungnir」
+夜符「Demon King Cradle」
+夜王「Dracula Cradle」
+符之一「Bad Lady Scramble」
+符之二「My Heart Break」
+符之三「Hell Catastrophe」
+夜符「Queen of Midnight」
+「Red Magic」
+死符「Ghastly Dream」
+死蝶「华胥的永眠」
+冥符「黄泉平坂行路」
+再迷「幻想乡的黄泉归」
+灵符「无寿之梦」
+寿命「通向无寿国的期票」
+符之一「幽梦的蝴蝶」
+符之二「白玉楼的枝垂樱」
+符之三「遥远过去的死地」
+樱花「依恋未酌宴」
+「紫色彼岸樱推迟绽放」
+境符「四重结界」
+结界「充满魅力的四重结界」
+式神「八云蓝+」
+境符「二次元与三次元的境界」
+结界「客观结界」
+符之一「四重结界」
+符之二「八云卍伞」
+符之三「八云蓝」
+外力「无限的超高速飞行体」
+幻想「第一类永动机」
+萃符「户隐山之投」
+萃鬼「天手力男之投」
+醉神「鬼缚之术」
+醉梦「施饿鬼缚之术」
+鬼符「Missing Power」
+鬼神「Missing Purple Power」
+符之一「投掷的天岩户」
+符之二「坤轴的大鬼」
+符之三「追傩返黑洞」
+鬼火「超高密度磷祸术」
+疎符「六里雾中」
+「百万鬼夜行」
+彩符「彩光风铃」
+光符「华光玉」
+华符「破山炮」
+极彩「彩光乱舞」
+极光「华严明星」
+三华「崩山彩极炮」
+灵符「梦想妙珠」
+神灵「梦想封印 瞬」
+梦符「二重结界」
+梦境「二重大结界」
+灵符「梦想封印 散」
+散灵「梦想封印 寂」
+梦符「封魔阵」
+神技「八方鬼缚阵」
+神技「八方龙杀阵」
+灵符「梦想封印 集」
+回灵「梦想封印 侘」
+境界「二重弹幕结界」
+大结界「博丽弹幕结界」
+神灵「梦想封印 瞬」
+「梦想天生」
+境符「四重结界」
+境界「永夜四重结界」
+「深弹幕结界 -梦幻泡影-」
+恋符「Master Spark」
+魔炮「Final Spark」
+魔符「Milky Way」
+魔空「Asteroid Belt」
+魔符「Stardust Reverie」
+黑魔「Event Horizon」
+恋符「Non-Directional Laser」
+恋风「Starlight Typhoon」
+恋符「Master Spark」
+恋心「Double Spark」
+光符「Earth Light Ray」
+光击「Shoot the Moon」
+魔炮「Final Spark」
+魔炮「Final Master Spark」
+「Blazing Star」
+魔符「Artful Sacrifice」
+魔操「Return Inanimateness」
+「猎奇剧团里的怪人」
+幻符「杀人玩偶」
+幻葬「夜雾幻影杀人鬼」
+「Deflation World」
+红符「红色不夜城」
+红魔「Scarlet Devil」
+「Scarlet Destiny」
+人符「现世斩」
+人鬼「未来永劫斩」
+「待宵反射卫星斩」
+死符「Ghastly Dream」
+死蝶「华胥的永眠」
+「西行寺无余涅槃」
+萤符「地上的流星」
+萤符「地上的彗星」
+灯符「Firefly Phenomemon」
+蠢符「Little Bug」
+蠢符「Little Bug Storm」
+蠢符「Night Bug Storm」
+蠢符「Night Bug Tornado」
+隐虫「永夜蛰居」
+「不合时令的蝶雨」
+声符「枭的夜鸣声」
+声符「木菟的咆哮」
+蛾符「天蛾的蛊道」
+毒符「毒蛾的鳞粉」
+猛毒「毒蛾的黑暗演舞」
+鹰符「Ill-Starred Dive」
+夜盲「夜雀之歌」
+夜雀「午夜中的合唱指挥」
+「Blind Night-Bird」
+产灵「First Pyramid」
+始符「Ephemerality 137」
+野符「武烈的危机」
+野符「将门的危机」
+野符「义满的危机」
+野符「GHQ的危机」
+国符「三种神器 剑」
+国符「三种神器 玉」
+国符「三种神器 镜」
+国体「三种神器 乡」
+终符「幻想天皇」
+虚史「幻想乡传说」
+未来「高天原」
+「日出国之天子」
+旧史「旧秘境史 -古代史-」
+转世「一条归桥」
+新史「新幻想史 -现代史-」
+「无何有的浄化」
+「Ancient Duper」
+波符「赤眼催眠(Mind Shaker)」
+幻波「赤眼催眠(Mind Blowing)」
+狂符「幻视调律(Visionary Tuning)」
+狂视「狂视调律(Illusion Seeker)」
+懒符「生神停止(Idling Wave)」
+懒惰「生神停止(Mind Stopper)」
+散符「真实之月(Invisible Full Moon)」
+月眼「月兔远隔催眠术(Tele-Mesmerism)」
+「幻胧月睨（Lunatic Red Eyes）」
+天丸「壶中的天地」
+觉神「神代的记忆」
+神符「天人的族谱」
+苏活「生命游戏 -Life Game-」
+苏生「Rising Game」
+操神「Omoikane Device」
+神脑「Omoikane Brain」
+天咒「Apollo 13」
+秘术「天文密葬法」
+禁药「蓬莱之药」
+药符「壶中的大银河」
+「天网蛛网捕蝶之法」
+难题「龙颈之玉 -五色的弹丸-」
+神宝「Brilliant Dragon Bullet」
+难题「佛御石之钵 -不碎的意志-」
+神宝「Buddhist Diamond」
+难题「火鼠的皮衣 -不焦躁的内心-」
+神宝「Salamander Shield」
+难题「燕的子安贝 -永命线-」
+神宝「Life Spring Infinity」
+难题「蓬莱的弹枝 -七色的弹幕-」
+神宝「蓬莱的玉枝 -梦色之乡-」
+「永夜归返 -初月-」
+「永夜归返 -新月-」
+「永夜归返 -上弦月-」
+「永夜归返 -待宵-」
+「永夜归返 -子之刻-」
+「永夜归返 -子时二刻-」
+「永夜归返 -子时三刻-」
+「永夜归返 -子时四刻-」
+「永夜归返 -丑之刻-」
+「永夜归返 -丑时二刻-」
+「永夜归返 -丑时三刻-」
+「永夜归返 -丑时四刻-」
+「永夜归返 -寅之刻-」
+「永夜归返 -寅时二刻-」
+「永夜归返 -寅时三刻-」
+「永夜归返 -寅时四刻-」
+「永夜归返 -朝霭-」
+「永夜归返 -拂晓-」
+「永夜归返 -破晓明星-」
+「永夜归返 -世间开明-」
+「蓬莱的树海」
+时效「月岩笠的诅咒」
+不死「火鸟 -凤翼天翔-」
+藤原「灭罪寺院伤」
+不死「徐福时空」
+灭罪「正直者之死」
+虚人「无」
+不灭「不死鸟之尾」
+蓬莱「凯风快晴 -Fujiyama Volcano-」
+「Possessed by Phoenix」
+「蓬莱人形」
+「Imperishable Shooting」
+「不死鸟重生」
+灵符「阴阳印」
+灵符「梦想封印」
+灵符「博丽幻影」
+魔符「Stardust」
+魔符「Stardust Reverie」
+魔符「Illusion Star」
+时符「Private Vision」
+时符「Mysterious Jack」
+迷符「缠缚剑」
+迷符「半身大悟」
+波符「月面波纹(Luna Wave)」
+散符「荣华之梦(Luna Megalopolis)」
+冻符「Perfect Freeze」
+冻符「Cold Divinity」
+骚符「Soul Noise Flow」
+骚符「Lyrica Solo Live」
+骚符「Soul-Go-Happy」
+骚符「Merlin Happy Live」
+骚符「Noise Melancholy」
+骚符「Lunasa Solo Live」
+鸟符「Human Cage」
+鸟符「Human Cage Double」
+鸟符「Mysterious Song」
+兔符「开运大纹」
+兔符「因幡的白兔」
+风符「风神一扇」
+疾风「风神少女」
+毒符「神经之毒」
+毒符「忧郁之毒」
+花符「幻想乡的开花」
+幻想「花鸟风月，啸风弄月」
+投钱「隔夜钱」
+死神「Higan Retour」
+罪符「彷徨的大罪」
+审判「Last Judgement」
+萤符「地上的恒星」
+蝶符「Butterfly Storm」
+暗符「Dark Side of the Moon」
+夜符「Midnight Bird」
+雪符「Diamond Blizzard」
+冻符「Minus K」
+寒符「Cold Snap」
+冬符「Northern Winner」
+咒符「Straw Doll Kamikaze」
+赤符「Doll Mira Ceti」
+光符「天照」
+包符「昭和之雨」
+葵符「水户的光圀」
+倭符「邪马台国」
+雾符「Gassing Garden」
+毒符「Poison Breath」
+谵妄「Into Delirium」
+脱兔「Fluster Escape」
+借符「大穴牟迟大人的药」
+散符「胧月花栞（Rocket in Mist）」
+波符「幻之月（Invisible Half Moon）」
+狂梦「疯狂的梦（Dream World）」
+日&水符「Hydrogenous Prominence」
+水&火符「Phlogistic Rain」
+月&木符「Satellite Himawari」
+日&月符「Royal Diamond Ring」
+华符「彩光莲华掌」
+彩翔「飞花落叶」
+彩华「虹色太极拳」
+人智剑「天女返」
+妄执剑「修罗之血」
+天星剑「仿若涅槃寂静」
+四生剑「众生无情之声」
+星符「交错的鳞片」
+鬼神「鸣动持国天」
+魔符「全世界梦魇」
+红符「Bloody Magic Square」
+红蝙蝠「Vampirish Night」
+神鬼「Remilia Stalker」
+时符「Tunnel Effect」
+空虚「Inflation Square」
+银符「Perfect Maid」
+幽雅「通向黄泉的诱蛾灯」
+死符「醉人之生，死的梦幻」
+「死蝶浮月」
+密符「大师的密传」
+行符「八千万块护摩」
+超人「飞翔役小角」
+新难题「月的钛铁矿」
+新难题「艾哲红石」
+新难题「金阁寺的一块天花板」
+新难题「Mysterium」
+药符「蝴蝶梦丸噩梦」
+炼丹「水银之海」
+秘药「仙香玉兔」
+谎言「Tongue of Wolf」
+审判「十王审判」
+审判「Guilty or Not Guilty」
+审判「净颇梨审判 -射命丸文-」
+死歌「八重雾中渡」
+古雨「黄泉中有旅途之雨」
+死价「Price of Life」
+禁忌「Forbidden Fruits」
+禁忌「被禁止的游戏」
+境符「色与空的境界」
+境符「波与粒的境界」
+贵人「圣日耳曼的忠告」
+蓬莱「瑞江浦岛子与五色的瑞龟」
+鬼气「蒙蒙迷雾」
+「百万鬼夜行」
+叶符「纷乱的落叶」
+秋符「Autumn Sky」
+秋符「无常秋日与少女的心」
+丰符「Otoshi Harvester」
+丰收「谷物神的允诺」
+厄符「Bad Fortune」
+厄符「厄神大人的生理节律」
+疵符「Broken Amulet」
+疵痕「损坏的护符」
+恶灵「Misfortune&#39;s Wheel」
+悲运「大钟婆之火」
+创符「Pain Flow」
+创符「流放人偶」
+光学「Optical Camouflage」
+光学「Hydro-Camouflage」
+洪水「Ooze Flooding」
+洪水「Diluvial Mare」
+漂溺「粼粼水底之心伤」
+水符「河童之河口浪潮」
+水符「河童之山洪暴发」
+水符「河童之幻想大瀑布」
+河童「妖怪黄瓜」
+河童「延展手臂」
+河童「Spin the Cephalic Plate」
+岐符「天之八衢」
+岐符「猿田彦神之岔路」
+风神「风神木叶隐身术」
+风神「天狗颪」
+风神「二百十日」
+「幻想风靡」
+「无双风神」
+塞符「山神渡御」
+塞符「天孙降临」
+塞符「天上天下的照国」
+秘术「Gray Thaumaturgy」
+秘术「遗忘之祭仪」
+秘术「单脉相传之弹幕」
+奇迹「白昼的客星」
+奇迹「客星璀璨之夜」
+奇迹「客星辉煌之夜」
+开海「海水分开之日」
+开海「摩西之奇迹」
+准备「呼唤神风的星之仪式」
+准备「召请建御名方神」
+奇迹「神之风」
+大奇迹「八坂之神风」
+神祭「Expanded Onbashira」
+奇祭「目处梃子乱舞」
+筒粥「神之粥」
+忘谷「Unremembered Crop」
+神谷「Divining Crop」
+贽符「御射山御狩神事」
+神秘「葛井之清水」
+神秘「Yamato Torus」
+天流「天水奇迹」
+天龙「雨之源泉」
+「Mountain of Faith」
+「风神之神德」
+神符「如水眼之美丽源泉」
+神符「结于杉木之古缘」
+神符「神所踏足之御神渡」
+开宴「二拜二拍一拜」
+土著神「手长足长大人」
+神具「洩矢的铁轮」
+源符「厌川的翡翠」
+蛙狩「蛙以口鸣，方致蛇祸」
+土著神「七石七木」
+土著神「小小青蛙不输风雨」
+土著神「宝永四年的赤蛙」
+「诹访大战 ～ 土著神话 vs 中央神话」
+祟符「洩矢大人」
+祈愿「祛除厄运之祈愿」
+宝符「跳跃的阴阳玉」
+梦境「二重大结界」
+光灵「神灵宝珠」
+「潜伏在境界内侧的灵与不可思议的巫女」
+灵符「梦想妙珠」
+神灵「梦想封印」
+神技「八方鬼缚阵」
+珠符「明珠暗投」
+宝符「阴阳宝玉」
+宝具「阴阳鬼神玉」
+神技「天霸风神脚」
+「梦想天生」
+星符「Polaris Unique」
+天仪「Orrery&#39;s Universe」
+邪恋「容易结果的Master Spark」
+恋符「Master Spark」
+星符「Dragon Meteor」
+魔符「Stardust Reverie」
+魔炮「Final Spark」
+彗星「Blazing Star」
+星符「Escape Velocity」
+星符「Meteonic Shower」
+光符「Luminous Strike」
+仪符「Orrery&#39;s Sun」
+邪恋「容易结果的Master Spark」
+幻符「杀人玩偶」
+时符「Private Square」
+伤符「Inscribe Red Soul」
+幻葬「夜雾幻影杀人鬼」
+「咲夜的世界」
+伤魂「Soul Sculpture」
+银符「Silver Bound」
+奇术「Eternal Meek」
+速符「Luminous Ricochet」
+时符「咲夜特制秒表」
+银符「Silver Bound」
+时符「咲夜特制秒表」
+幻术「My Knife Recursion」
+时符「Silver Acute 360」
+魔符「Artful Sacrifice」
+战符「Little Legion」
+咒符「上海人偶」
+魔操「Return Inanimateness」
+战操「Doll&#39;s War」
+诅咒「蓬莱人偶」
+侦符「Seeker Dolls」
+红符「荷兰人偶」
+人偶「未来文乐」
+聚焦「Trip Wire」
+剑符「Soldier of Cross」
+人偶「没有灵魂的集体舞」
+火金符「St. Elmo Pillar」
+土水符「Noachian Deluge」
+金木符「Elemental Harvester」
+日符「Royal Flare」
+月符「Silent Selene」
+火水木金土符「贤者之石」
+水符「Jellyfish Princess」
+月木符「Satellite Himawari」
+日木符「Photosynthesis」
+火符「Akiba Summer」
+水符「Jellyfish Princess」
+月金符「Sunshine Reflector」
+人智剑「天女返」
+樱花剑「闪闪散华」
+断想剑「草木成佛斩」
+瞑斩「楼观赋予我能斩断弹幕的心之眼」
+人符「现世斩」
+断命剑「冥想斩」
+魂符「幽明的苦轮」
+人鬼「未来永劫斩」
+断迷剑「迷津慈航斩」
+魂魄「幽明求闻持聪明之法」
+剑伎「樱花闪闪」
+断灵剑「成佛得脱斩」
+红符「红色不夜城」
+必杀「Heart Break」
+夜符「Demon King Cradle」
+红魔「Scarlet Devil」
+神枪「Spear the Gungnir」
+夜王「Dracula Cradle」
+夜符「Bad Lady Scramble」
+命运「Miserable Fate」
+命运「Miserable Fate」
+夜符「Bombard Night」
+蝙蝠「Vampire Sweep」
+神鬼「Remilia Stalker」
+死符「Ghastly Dream」
+冥符「黄泉平坂行路」
+灵符「无寿之梦」
+死蝶「华胥的永眠」
+再迷「幻想乡的黄泉归」
+寿命「通向无寿国的期票」
+灵蝶「蝶之羽风暂留此世」
+幽雅「通向黄泉的诱蛾灯」
+幽符「冥界灵异点」
+灵蝶「蝶之羽风暂留此世」
+宴会「死后一切大团圆」
+境符「四重结界」
+境符「二次元与三次元的境界」
+结界「充满魅力的四重结界」
+结界「客观结界」
+幻巢「飞光虫之巢」
+空饵「具有中毒性的诱饵」
+废线「废弃车站下车之旅」
+光弹「Doppler Effect」
+捌器「将一切分成两个的东西」
+幻巢「飞光虫之巢」
+空饵「狂躁高速飞行物体」
+「八云之巢」
+萃符「户隐山之投」
+醉神「鬼缚之术」
+鬼符「Missing Power」
+萃鬼「天手力男之投」
+醉梦「施饿鬼缚之术」
+鬼神「Missing Purple Power」
+雾符「云集雾散」
+鬼火「超高密度磷祸术」
+鬼符「大江山悉皆杀」
+吐息「小鬼的深呼吸」
+火弹「地灵活性弹」
+鬼神「Missing Purple Power」
+鬼气「蒙蒙迷雾」
+「百万同一鬼」
+迫符「胁迫幻觉（Obsessioner）」
+幻弹「幻想视差（Bluff Barrage）」
+幻兔「平行交差（Parallel Cross）」
+惑视「离圆花冠（Corolla Vision）」
+幻爆「近眼花火（Mind Star Mine）」
+幻惑「花冠视线（Crown Vision）」
+「幻胧月睨（Lunatic Red Eyes）」
+弱心「丧心丧意（Demotivation）」
+丧心「丧心疮痍（Discarder）」
+毒烟幕「瓦斯织物之玉」
+生药「国士无双之药」
+旋符「红叶扇风」
+龙卷「天孙降临的道标」
+逆风「人间禁制之道」
+突符「天狗巨暴流」
+风符「天狗道的开风」
+「幻想风靡」
+魔兽「镰鼬面纱」
+突风「猿田彦的先导」
+突风「猿田彦的先导」
+旋符「飘妖扇」
+旋风「鸟居旋风」
+「幻想风靡」
+舟符「宛若河流般」
+薄命「余命无几许」
+灵符「到处都是的浮游灵」
+死歌「八重雾中渡」
+换命「不惜身命，可惜身命」
+恨符「充满留恋的紧缚灵」
+死符「区别死者的镰刀」
+地狱「无间之狭间」
+灵符「古老的地缚灵之复苏」
+死符「区别死者的镰刀」
+魂符「魂之游戏」
+电符「雷鼓弹」
+鱼符「龙鱼电钻」
+雷符「电气的龙宫」
+光星「光龙之叹息」
+雷鱼「雷云鱼游泳弹」
+羽衣「羽衣若空」
+棘符「雷云棘鱼」
+龙鱼「龙宫使的游泳弹」
+光玉「闪光之龙眼」
+雷符「神鸣者的住处」
+棘符「雷云棘鱼」
+云界「玄云海的雷庭」
+地符「不让土壤之剑」
+非想「非想非非想之剑」
+天符「天道是非之剑」
+地震「先忧后乐之剑」
+气符「天启气象之剑」
+要石「天地开辟之挤压」
+气符「无念无想的境界」
+「全人类的绯想天」
+要石「天空之灵石」
+乾坤「粗暴而又像母亲般的大地啊」
+灵想「镇守大地之石」
+天地「俯瞰世界的遥远的大地啊」
+「全人类的绯想天」
+「违背常识的另一侧」
+「萃灵花」
+「乌鸦的暗影」
+「Remote Sacrifice」
+「Five Season」
+「Optical Camouflage」
+怪奇「钓瓶落之怪」
+罠符「Capture Web」
+蜘蛛「石窟的蜘蛛巢」
+瘴符「Field Miasma」
+瘴气「原因不明的热病」
+妒符「Green-Eyed Monster」
+嫉妒「看不见的绿眼怪兽」
+开花爷爷「对华丽的仁者之嫉妒」
+开花爷爷「小白的灰烬」
+剪舌麻雀「对谦虚的富者之记恨」
+剪舌麻雀「大葛笼与小葛笼」
+恨符「丑时参拜」
+恨符「丑时参拜第七日」
+鬼符「怪力乱神」
+怪轮「地狱之苦轮」
+枷符「罪人不释之枷」
+力业「大江山岚」
+力业「大江山颪」
+四天王奥义「三步必杀」
+回忆「Terrible Souvenir」
+回忆「恐怖催眠术」
+回忆「二重黑死蝶」
+回忆「飞行虫之巢」
+回忆「波与粒的境界」
+回忆「户隐山之投」
+回忆「百万鬼夜行」
+回忆「蒙蒙迷雾」
+回忆「风神木叶隐身术」
+回忆「天狗巨暴流」
+回忆「鸟居旋风」
+回忆「春之京都人偶」
+回忆「Straw Doll Kamikaze」
+回忆「Return Inanimateness」
+回忆「Mercury Poison」
+回忆「Princess Undine」
+回忆「贤者之石」
+回忆「延展手臂」
+回忆「河童之河口浪潮」
+回忆「粼粼水底之心伤」
+猫符「Cat&#39;s Walk」
+猫符「怨灵猫乱步」
+咒精「Zombie Fairy」
+咒精「怨灵凭依妖精」
+恨灵「Spleen Eater」
+尸灵「食人怨灵」
+赎罪「旧地狱的针山」
+赎罪「古时之针与痛楚的怨灵」
+「死灰复燃」
+「小恶灵复活」
+妖怪「火焰的车轮」
+核热「Nuclear Fusion」
+核热「Nuclear Excursion」
+核热「核反应失控」
+爆符「Petit Flare」
+爆符「Mega-Flare」
+爆符「Giga-Flare」
+爆符「Peta-Flare」
+焰星「Fixed Star」
+焰星「Planetary Revolution」
+焰星「十凶星」
+「地狱极乐熔毁」
+「Hell&#39;s Tokamak」
+「地狱的人造太阳」
+「Subterranean Sun」
+秘法「九字切」
+奇迹「Miracle Fruit」
+神德「五谷丰穰米之浴」
+表象「祖先托梦」
+表象「弹幕偏执症」
+本能「本我的解放」
+抑制「Super Ego」
+反应「妖怪测谎机」
+潜意识「弹幕的墨迹测验」
+复燃「恋爱的埋火」
+深层「潜意识的基因」
+「被厌恶者的哲学」
+「Subterranean Rose」
+梦符「退魔符乱舞」
+灵符「梦想封印」
+恋符「Master Spark」
+魔符「Ultimate Shortwave」
+蛇符「神代大蛇」
+蛙符「操纵蛤蟆」
+棒符「Busy Rod」
+搜符「Rare Metal Detector」
+搜符「Gold Detector」
+视符「Nazrin Pendulum」
+视符「高感度Nazrin Pendulum」
+守符「Pendulum Guard」
+宝塔「Greatest Treasure」
+大轮「唐伞光晕」
+大轮「Hello,Forgotten World」
+伞符「Parasol Star Symphony」
+伞符「Parasol Star Memories」
+雨符「雨夜怪谈」
+雨伞「超防水干爽伞妖」
+化符「遗忘之伞的夜行列车」
+化铁「备用伞特急夜晚狂欢号」
+伞符「大颗的泪雨」
+惊雨「台风骤雨」
+光晕「唐伞惊吓闪光」
+铁拳「问答无用妖怪拳」
+神拳「凌云地狱冲」
+神拳「天海地狱冲」
+拳符「天网沙袋」
+连打「云界海妖来袭」
+连打「帝王海妖来袭」
+拳打「重拳碎击」
+溃灭「天上天下连续勾拳」
+大喝「守旧尊老之怒眼」
+忿怒「天变巨眼焚身」
+忿怒「空前绝后巨眼焚身」
+倾覆「同路人之锚」
+倾覆「沉没之锚」
+倾覆「击沉之锚」
+溺符「Deep Vortex」
+溺符「Sinkable Vortex」
+港符「Phantom Ship Harbor」
+港符「幽灵船之港」
+港符「幽灵船永久停泊」
+幽灵「Sinker Ghost」
+幽灵「悄然袭来的长勺」
+宝塔「Radiant Treasure」
+宝塔「Radiant Treasure Gun」
+光符「Absolute Justice」
+光符「正义之威光」
+法力「至宝之独钴杵」
+法灯「无瑕佛法之独钴杵」
+光符「净化之魔」
+「Complete Clarification」
+魔法「紫云之兆」
+吉兆「紫色云路」
+吉兆「极乐的紫色云路」
+魔法「魔界蝶之妖香」
+魔法「Magic Butterfly」
+光魔「Star Maelstrom」
+光魔「魔法银河系」
+大魔法「魔神复诵」
+「圣尼公之大空卷轴」
+超人「圣白莲」
+飞钵「Flying Fantastica」
+飞钵「传说的飞空圆盘」
+妖云「平安时代的黑云」
+真相不明「愤怒的红色UFO袭来」
+鵺符「鵺的蛇行表演」
+真相不明「哀愁的蓝色UFO袭来」
+鵺符「弹幕奇美拉」
+真相不明「忠义的绿色UFO袭来」
+鵺符「Undefined Darkness」
+真相不明「恐怖的虹色UFO袭来」
+「平安京的恶梦」
+恨弓「源三位赖政之弓」
+祈愿「守护商业繁荣」
+秘术「Gray Thaumaturgy」
+神签「暴乱神签连掷」
+开海「海水分开之日」
+奇迹「白昼的客星」
+秘术「遗忘之祭仪」
+奇迹「客星辉煌之夜」
+开海「摩西之奇迹」
+秘法「九字切」
+蛇符「云泳大蛇」
+奇迹「空中落物的奇迹」
+冰符「Icicle Fall」
+冻符「Minus K」
+冰符「Icicle Machine Gun」
+冰符「Fairy Spin」
+冰块「Cold Sprinkler」
+冷体「Super Ice Kick」
+冰符「Sword Freezer」
+冻符「Freeze Atmosphere」
+冷符「瞬间冷冻光线」
+霜符「Frost Columns」
+吹冰「Ice Tornado」
+冻符「Perfect Freeze」
+冰块「Great Crusher」
+彩符「极彩沛雨」
+彩翔「飞花落叶」
+彩符「彩光风铃」
+虹符「烈虹真拳」
+气符「星脉弹」
+击符「大鹏拳」
+气符「地龙天龙脚」
+极彩「彩光乱舞」
+彩华「虹色太极拳」
+气符「猛虎内劲」
+星气「星脉地转弹」
+炽击「大鹏坠击拳」
+华符「彩光莲华掌」
+御守「妖怪拘禁符」
+灵符「梦想封印 圆」
+神灵「梦想封印 瞬」
+「最凶恶的吓人巫女玉」
+梦符「封魔阵」
+结界「扩散结界」
+星符「Eccentric Asteroid」
+流光「Shooting Echo」
+魔符「Magical R360」
+星符「Gravity Beat」
+光符「Earth Light Ray」
+恋符「Non-Directional Laser」
+魔废「Deep Ecological Bomb」
+枪符「萌萌大千枪」
+人偶「Lemmings&#39; Parade」
+人偶「Semi-Automaton」
+骑士「Doll of Round Table」
+牺牲「Suicide Pact」
+试验中「Level Titania」
+试验中「歌利亚人偶」
+火水符「Phlogistic Pillar」
+土金符「Emerald Megalopolis」
+日月符「Royal Diamond Ring」
+火符「Ring of Agni」
+水符「Princess Undine」
+「地狱的人造太阳」
+控制「Self Tokamak」
+遮光「核热护罩」
+爆符「Mega-Flare」
+焰星「Fixed Star」
+核符「Creeping Sun」
+光热「High Tension Blade」
+焰星「十凶星」
+地热「核焰喷涌」
+鸦符「八咫乌俯冲」
+核热「核反应失控疾冲」
+「Subterranean Sun」
+爆符「Giga-Flare」
+「Abyss Nova」
+热符「Break Prominence」
+核热「核反应失控疾冲」
+「热木星降落模型」
+核热「人工太阳的黑子」
+源符「诹访清水」
+神具「洩矢的铁轮」
+土著神「洩矢神」
+开宴「二拜二拍一拜」
+土著神「小小青蛙不输风雨」
+源符「厌川的翡翠」
+蛙狩「蛙以口鸣，方致蛇祸」
+土著神「手长足长大人」
+土著神「宝永四年的赤蛙」
+蛙休「总是能够冬眠」
+祟神「赤口大人」
+合掌「大太法师的参拜」
+神具「洩矢的铁轮」
+「炽如地狱的间歇泉」
+「岩浆的两栖类」
+「幻想乡空中神战」
+鲶鱼「看哪，世界在震动哦？」
+鲶鱼「土壤液化现象让大地也像泥一样了！」
+鲶鱼「即使是发电也会努力哦？」
+鲶鱼「全电气化更加环保！」
+大鲶鱼「这一招出来，连尘世都要完结了！！」
+时符「Imaginary Vertical Time」
+时计「Luna Dial」
+光速「C. Ricochet」
+空观剑「六根清净斩」
+转生剑「圆心流转斩」
+恶魔「Remilia Stretch」
+「千年吸血鬼」
+「反魂蝶」
+樱符「Sense of Cherry Blossom」
+魔眼「拉普拉斯之魔」
+四天王奥义「三步坏废」
+长视「赤月下（Infrared Moon）」
+短视「超短脑波（X Wave）」
+赤眼「望见圆月（Lunatic Blast）」
+风符「天狗报当日截稿」
+鸦符「暗夜昼魇」
+魂符「生魂流离的镰刀」
+羽衣「羽衣若时」
+珠符「五爪龙之珠」
+剑技「气焰万丈之剑」
+天气「绯想天促」
+秋符「Fall in Blast」
+枯道「Lost Windrow」
+实符「Warm Color Harvest」
+烧芋「Sweet Potato Room」
+嫉妒「Jealousy Bomber」
+怨恨念法「积怨返」
+厄野「禊川的沉积」
+灾祸「诅咒的雏人偶」
+伞符「单脚投手返」
+虹符「Over the Rainbow」
+伞符「细雪的过客」
+钓瓶「飞入井中」
+钓瓶「Well Destructor」
+细网「犍陀多绳索」
+毒符「桦黄小町」
+水符「Water Carpet」
+河符「Dividing Edge」
+河童「干燥尻子玉」
+狗符「Rabies Bite」
+山窝「Expellees&#39; Canaan」
+拳骨「天空铁锤落」
+稻妻「带电入道」
+铁拳「入道唰」
+锚符「幽灵船长期停泊」
+浸水「船底的维纳斯」
+「Deep Sinker」
+光鬼「金刚螺旋」
+鬼符「鬼气狂澜」
+鬼声「毁灭之咆哮」
+鬼符「豆粒大的针地狱」
+地狱「炼狱气息」
+鬼符「Missing Power」
+寅符「Hungry Tiger」
+天符「焦土曼荼罗」
+宝符「黄金的震眩」
+棒符「Nazrin Rod」
+财宝「Gold Rush」
+熔解「Melting White」
+巨星「Red Giant」
+星符「巨星陨落」
+七星「Septentrion」
+死符「Ghost Town」
+「尸体繁华街」
+醉步「Cat Random Walk」
+心符「没我之爱」
+记忆「DNA的瑕疵」
+「胎儿之梦」
+「蔷薇地狱」
+脑符「Brain Fingerprint」
+心花「Camera-Shy Rose」
+回忆「朦胧记忆中的金阁寺」
+气性「勇气凛凛之剑」
+地震「避难险路」
+要石「要石浮游炮」
+「全人类的绯想天」
+雷符「Lightning Fish」
+珠符「五爪龙之珠」
+龙宫「鲷和比目鱼的舞蹈」
+龙鱼「龙宫使的游泳弹」
+蛇符「Ground Serpent」
+御柱「Meteoric Onbashira」
+儚道「御神渡路口」
+神樱「湛樱花吹雪」
+姬川「Princess Jade Green」
+铁轮「Mythical Ring」
+土地神「御射军神大人」
+真相不明「紫镜」
+真相不明「红披风蓝披风」
+真相不明「厕所里的花子」
+「自行星而来的弹幕X」
+「游行圣」
+习合「垂迹大日如来」
+「星之剑护法」
+灵札「报刊推销团降服」
+结界「狗仔队击退结界」
+梦符「梦想亚空穴」
+星符「Oort Cloud」
+天仪「Orrery&#39;s Solar System」
+彗星「Blazing Star」
+奇迹「弘安的神风」
+蛙符「操纵蛤蟆」
+妖怪退治「妖力掠夺者」
+取材「射命丸文的暴力取材」
+望远「Candid Shot」
+抓拍「Fast Shot」
+「幻想风靡」
+采访「姬海棠果的采访练习」
+连拍「Rapid Shot」
+远视「天狗念写法」
+光符「Rutile Flection」
+空符「Elfin Canopy」
+光符「Triple Meteor」
+光星「Orion Belt」
+光符「Bright Night」
+空符「Break Canopy」
+光符「Extensive Meteor」
+光星「Great Triangle」
+光符「Full Moon Night」
+降光「Triple Light」
+光符「Hyper Inflection」
+激光「Sun Burst」
+星热「Ice Dissolver」
+月热「Ice Dissolver」
+日热「Ice Dissolver」
+协力技「Fairy Overdrive」
+「Three Fairies」
+阳光「Sunshine Blast」
+虹光「Prism Flash」
+光精「Diamond Ring」
+光符「Blue Deflection」
+日符「Aggressive Light」
+日符「Direct Sunlight」
+瞬光「Fatal Flash」
+光精「Cross Diffusion」
+光符「Yellow Deflection」
+阳光「Sunshine Needle」
+月符「Lunatic Rain」
+月符「Luna Cyclone」
+月光「Slient Storm」
+月光「Dark Stillness」
+障光「Moonlight Wall」
+夜符「Night Fairies」
+月光「Slient Flower」
+月光「Moon Stillness」
+光壁「Wall Break」
+月光「Silent Cyclone」
+流星「Petit Comet」
+星粒「Sprinkle Piece」
+星符「Twinkle Sapphire」
+星光「Star Laser」
+流星「Comet Stream」
+星粒「Star Piece Shower」
+星符「Shooting Sapphire」
+星光「Star Storm」
+星符「Starlight Rain」
+星符「Red Star」
+光符「Mysterious Beam」
+光击「Shoot the Little Moon」
+魔弹「Test Slave」
+闭符「Big Crunch」
+恋符「Master Spark一般的手电筒」
+魔开「Open Universe」
+魔十字「Grand Cross」
+流星「Super Perseids」
+「Blazing Star一般的捉迷藏」
+「妖精尽灭光」
+灵符「梦想封印」
+恋符「Master Spark」
+秘术「Gray Thaumaturgy」
+空观剑「六根清净斩」
+符牒「死蝶之舞」
+符牒「死蝶之舞 - 樱花 -」
+幽蝶「Ghost Spot」
+幽蝶「Ghost Spot - 樱花 -」
+冥符「常夜樱」
+樱符「西行樱吹雪」
+樱符「樱吹雪地狱」
+响符「Mountain Echo」
+响符「Mountain Echo Scramble」
+响符「Power Resonance」
+山彦「Long-Range Echo」
+山彦「Amplify Echo」
+大声「Charged Cry」
+大声「Charged Yahoo」
+山彦「山彦的本领发挥回音」
+虹符「Umbrella Cyclone」
+回复「Heal by Desire」
+毒爪「Poison Raze」
+毒爪「Poison Murder」
+欲符「赚钱欲灵招来」
+欲灵「Score Desire Eater」
+毒爪「不死杀人鬼」
+邪符「养小鬼」
+邪符「孤魂野鬼」
+入魔「走火入魔」
+降灵「死人童乩」
+通灵「通灵芳香」
+道符「道胎动」
+道符「TAO胎动 ～道～」
+雷矢「Gagouji Cyclone」
+雷矢「Gagouji Tornado」
+怨灵「入鹿之雷」
+天符「雨之磐舟」
+天符「天之磐舟哟，向天飞升吧」
+投皿「物部氏的八十平瓮」
+炎符「废佛之炎风」
+炎符「火烧樱井寺」
+圣童女「大物忌正餐」
+圣童女「太阳神的贡品」
+名誉「十二阶之色彩」
+名誉「十二阶之冠位」
+仙符「日出之处的道士」
+仙符「日出之处的天子」
+召唤「豪族乱舞」
+秘宝「斑鸠寺的天球仪」
+秘宝「圣德太子的欧帕兹」
+光符「救世观音的佛光」
+光符「Guse Flash」
+眼光「十七条的光芒」
+神光「无忤为宗」
+「星辰降落的神灵庙」
+「新生的神灵」
+「神灵大宇宙」
+未知「轨道不明的鬼火」
+未知「姿态不明的空鱼」
+未知「原理不明的妖怪玉」
+一回胜负「灵长类弹幕变化」
+二回胜负「肉食类弹幕变化」
+三回胜负「羽鸟类弹幕变化」
+四回胜负「两栖类弹幕变化」
+五回胜负「鸟兽戏画」
+六回胜负「狸猫的变身学校」
+七回胜负「野生的离岛」
+变化「魔奴化巫女的伪退治」
+「猯藏化弹幕十变化」
+貉符「满月下的腹鼓舞」
+「Wild Carpet」
+御札「神社繁盛祈愿札」
+御札「梦幻的高速祈愿札」
+御札「对妖怪方位清除」
+「信仰心增加祈愿之仪」
+「二大宗教九字护身法」
+「面灵气大降服」
+「最后的三位一体宗教」
+灵符「梦想封印」
+宝具「阴阳飞鸟井」
+神技「八方龙杀阵」
+「梦想天生」
+恋符「Master Spark」
+彗星「Blazing Star」
+星符「Satellite Illusion」
+「Sungrazer」
+星符「毫秒脉冲星」
+魔符「Blaze Away」
+岚符「佛罚的秋台风」
+积乱「见越入道云」
+拳固「忏悔的杀风」
+「华丽的老爹时代」
+拳符「愤怒的大云块」
+入道「夏之幻想太郎」
+天符「三千大千世界之主」
+天符「大日如来的光辉」
+天符「释迦牟尼的五行山」
+「Angirasa Veda」
+杵符「金刚手菩萨的咒文」
+超人「迦楼罗之翼」
+风符「三轮的皿风暴」
+炎符「太乙真火」
+运气「破局的开门」
+「大火改新」
+皿投「土器回转投」
+弓符「星龙弓」
+仙符「日出之处的道士」
+道符「掌上的天道」
+人符「劝善惩恶古之良典」
+「承诏必慎」
+德符「圣德的威望」
+光符「无限条光芒」
+豪雨「河底大战争」
+泡符「射击吧！泡泡龙」
+战机「飞翔吧！三平加油」
+「Super Scope 3D」
+水符「夏天的塑料瓶火箭」
+妖怪战舰「三平战机」
+抑制「Super Ego」
+本能「本我的解放」
+梦符「先祖大人在看着你」
+「Brambly Rose Garden」
+本能「Freudian」
+茨符「Confined Innocent」
+变化「分福热水浴」
+变化「百鬼妖界之门」
+变化「二岩家的制裁」
+「八百八狸囃子」
+变化「满月的花鸟园」
+变化「鸟兽戏画」
+变化「百鬼妖界之门」
+「游戏到此为止了」
+「弁天的琵琶法师」
+「神社的佛祖大人」
+怒面「愤怒的忌狼之面」
+凭依「喜怒哀乐附体」
+忧面「杞人忧地」
+「假面丧心舞 暗黑能乐」
+忧符「忧世之苦不绝如轮」
+喜符「昂扬的神乐狮子」
+怒符「愤怒的忌狼之面」
+「Monkey Possession」
+妖器「无情的驱魔棒」
+灵符「梦想封印」
+妖器「Dark Spark」
+妖器「银色异次元」
+时符「Dual Vanish」
+冰符「Ultimate Blizzard」
+水符「Tail Fin Slap」
+鳞符「Scale Wave」
+鳞符「逆鳞的惊涛」
+鳞符「逆鳞的大惊涛」
+飞符「Flying Head」
+首符「Close-Eye Shot」
+首符「辘轳首飞来」
+飞头「Multiplicative Head」
+飞头「Seventh Head」
+飞头「Ninth Head」
+飞头「Dullahan Night」
+牙符「月下的犬齿」
+变身「Triangle Fang」
+变身「Star Fang」
+咆哮「Strange Roar」
+咆哮「満月的远吠」
+狼符「Star Ring Pounce」
+天狼「High-Speed Pounce」
+弦乐「风暴的合奏」
+弦乐「净琉璃世界」
+平曲「祗园精舍的钟声」
+怨灵「无耳芳一」
+怨灵「平家的大怨灵」
+乐符「邪恶的五线谱」
+乐符「凶恶的五线谱」
+乐符「Double Score」
+琴符「诸行无常的琴声」
+响符「平安的残响」
+响符「Echo Chamber」
+筝曲「下克上送筝曲」
+筝曲「下克上安魂曲」
+欺符「逆针击」
+逆符「镜之国的弹幕」
+逆符「Evil in the Mirror」
+逆符「天地有用」
+逆符「天下翻覆」
+逆弓「天壤梦弓」
+逆弓「天壤梦弓的诏敕」
+逆转「Reverse Hierarchy」
+逆转「Change Air Brave」
+小弹「小人的道路」
+小弹「小人的荆棘路」
+小槌「变大吧」
+小槌「变得更大吧」
+妖剑「辉针剑」
+小槌「你给我变大吧」
+「进击的小人」
+「Wall of Issun」
+「Hop-o&#39;-My-Thumb Seven」
+「七个一寸法师」
+一鼓「暴乱宫太鼓」
+二鼓「怨灵绫鼓」
+三鼓「午夜零时的三振」
+死鼓「Land Percuss」
+五鼓「雷电拨浪鼓」
+六鼓「Alternate Sticking」
+七鼓「高速和太鼓火箭」
+八鼓「雷神之怒」
+「Blue Lady Show」
+「Pristine beat」
+水符「Lunatic Red Slap」
+潮符「湖中的潮汐波」
+鱼符「School of Fish」
+冰符「Perfect Glacialist」
+冰王「Frost King」
+叫唤「Primal Scream」
+劈音「Piercing Circle」
+经文「无限念佛」
+飞首「Extreme Long Neck」
+眼光「Hell&#39;s Ray」
+飞首「Twin Rokuro Head」
+满月「Full Moon Roar」
+狼牙「渴望鲜血的狼牙」
+「20XX年 死后之旅」
+大火「江户之花」
+惜命「不死之身的舍身击」
+「火鸟 ‐不死传说‐」
+蝶符「花蝶风月」
+樱花「樱吹雪花小町」
+入魔「过剩走火入魔」
+仙术「Wall Runner」
+仙术「穿墙虫洞」
+毒爪「Zombie Claw」
+雷符「愤怒的雷电拨浪鼓」
+太鼓「Fantastic Woofer」
+音符「大热唱琵琶」
+乐谱「Score Web」
+两吟「星辰降落之歌」
+琴符「天之诏琴」
+哀歌「人琴俱亡」
+两吟「星辰降落之歌」
+写真「激摄天狗独家新闻」
+「瞬摄新闻工作者」
+写真「Full Panorama Shot」
+写真「足不出户的狗仔队」
+瀑符「Shiraito Fall」
+瀑符「Kegon Gun」
+牙符「咀嚼玩味」
+恋符「Wide Master」
+恋符「Machine Gun Spark」
+时符「时停者咲夜」
+时符「Changeling Magic」
+蛇符「Bind Snake Come On」
+蛇符「Green Snake Come On」
+光符「冥府光芒一闪」
+彼岸剑「地狱极乐胡乱斩」
+「小人的地狱」
+辉针「杀鬼刺双目之针」
+神签「犯规结界」
+「Persuasion Needle」
+「杜鹃不啼则待之泣」
+「人类真好啊」
+御柱「Rising Onbashira」
+「神明的威光」
+绿石「Jade Break」
+蛙符「涂有鲜血的赤蛙塚」
+古舟「Ancient Ship」
+热龙「火焰龙脉」
+鬼群「Imp swarm」
+鬼群「百鬼秃童」
+「黑天的束缚」
+「梵天之瞳」
+「吾乃天道也」
+「十七条宪法炸弹」
+「全妖怪的绯想天」
+「鹿岛镇护」
+「Fitful Nightmare」
+「捉吸血鬼游戏」
+「不可能弹幕结界」
+「运钝根的捕物帐」
+「犯规结界」
+灵符「梦想封印」
+神技「八方龙杀阵」
+宝具「阴阳飞鸟井」
+恋符「Master Spark」
+彗星「Blazing Star」
+星符「Satellite Illusion」
+岚符「佛罚的秋台风」
+积乱「见越入道云」
+拳固「忏悔的杀风」
+天符「三千大千世界之主」
+天符「大日如来的光辉」
+天符「释迦牟尼的五行山」
+超人「圣白莲」
+风符「三轮的皿风暴」
+炎符「太乙真火」
+运气「破局的开门」
+仙符「日出之处的道士」
+道符「掌上的天道」
+人符「劝善惩恶古之良典」
+变化「分福热水浴」
+变化「百鬼妖界之门」
+变化「二岩家的制裁」
+惜命「不死之身的舍身击」
+豪雨「河底大战争」
+泡符「射击吧！泡泡龙」
+战机「飞翔吧！三平加油」
+抑制「Super Ego」
+本能「本我的解放」
+梦符「先祖大人在看着你」
+怒面「愤怒的忌狼之面」
+凭依「喜怒哀乐附体」
+忧面「杞人忧地」
+灵符「梦想封印」
+恋符「Master Spark」
+蛙符「操纵蛤蟆」
+凶弹「Speed Strike」
+弹符「Eagle Shooting」
+弹符「鹰已击中」
+铳符「Lunatic Gun」
+兔符「Strawberry Dango」
+兔符「Berry Berry Dango」
+兔符「Dango Influence」
+月见「September Fullmoon」
+月见酒「Lunatic September」
+梦符「绯红色的压迫噩梦」
+梦符「蔚蓝色的愁三重梦」
+梦符「愁永远之梦」
+梦符「刈安色的错综迷梦」
+梦符「苍蓝色的Dream Catcher」
+梦符「梦我梦中」
+玉符「乌合的逆咒」
+玉符「乌合的二重咒」
+玉符「秽身探知型水雷 改」
+玉符「众神的光辉弹冠」
+狱符「地狱之蚀」
+狱符「Star and Stripe」
+狱炎「擦弹的狱意」
+「Apollo捏造说」
+「掌上的纯光」
+「杀意的百合」
+「原始的神灵界」
+「现代的神灵界」
+「战栗的寒冷之星」
+「纯粹的狂气」
+「溢出的瑕秽」
+「地上秽的纯化」
+纯符「Purely Bullet Hell」
+纯符「纯粹的弹幕地狱」
+「用于逼死瓮中鼠的单纯弹幕」
+「用于杀人的纯粹弹幕」
+「最初与最后的无名弹幕」
+「Trinitarian Rhapsody」
+「最初与最后的无名弹幕」
+灵符「梦想封印」
+神技「八方龙杀阵」
+宝具「阴阳飞鸟井」
+恋符「Master Spark」
+彗星「Blazing Star」
+星符「Satellite Illusion」
+岚符「佛罚的秋台风」
+积乱「见越入道云」
+拳固「忏悔的杀风」
+天符「三千大千世界之主」
+天符「大日如来的光辉」
+天符「释迦牟尼的五行山」
+风符「三轮的皿风暴」
+炎符「太乙真火」
+运气「破局的开门」
+仙符「日出之处的道士」
+道符「掌上的天道」
+人符「劝善惩恶古之良典」
+豪雨「河底大战争」
+泡符「射击吧！泡泡龙」
+战机「飞翔吧！三平加油」
+抑制「Super Ego」
+本能「本我的解放」
+梦符「先祖大人在看着你」
+变化「分福热水浴」
+变化「百鬼妖界之门」
+变化「二岩家的制裁」
+怒面「愤怒的忌狼之面」
+凭依「喜怒哀乐附体」
+忧面「杞人忧地」
+「幻胧月睨（Lunatic Red Eyes）」
+要石「要石浮游炮」
+贫符「Mischance Scatter」
+「最凶最恶的极贫不幸神」
+贫符「Mischance Scatter」
+「最凶最恶的极贫不幸神」
+灵符「梦想樱花封印」
+恋符「Master Spark Frozen」
+蝶符「Minute Scales」
+蝶符「凤蝶的鳞粉」
+蝶符「Fluttering Summer」
+蝶符「盛夏振翅」
+雨符「被囚禁的秋雨」
+雨符「被诅咒的暴雨」
+刃符「山姥的菜刀研磨」
+刃符「山姥的鬼菜刀研磨」
+尽符「Mountain Murder」
+尽符「Bloody Mountain Murder」
+春符「Surprise Spring」
+犬符「野犬的散步」
+狗符「山狗的散步」
+独乐「狛犬旋转」
+独乐「Curl Up and Die」
+狛符「单人式阿吽的呼吸」
+魔符「Instant Bodhi」
+魔符「即席菩提」
+魔符「Bullet Golem」
+魔符「作宠物的巨大弹生命体」
+地藏「Criminal Salvation」
+地藏「业火救济」
+茗荷「Forget Your Name」
+冥加「Behind You」
+舞符「Behind Festival」
+狂舞「天狗怖吓」
+狂舞「狂乱天狗怖吓」
+鼓舞「Powerful Cheers」
+狂舞「Crazy Back Dance」
+弹舞「双目台风」
+竹符「Bamboo Spear Dance」
+竹符「Bamboo Crazy Dance」
+笹符「Tanabata Star Festival」
+舞符「Behind Festival」
+狂舞「天狗怖吓」
+狂舞「狂乱天狗怖吓」
+鼓舞「Powerful Cheers」
+狂舞「Crazy Back Dance」
+弹舞「双目台风」
+后符「秘神的后光」
+后符「绝对秘神的后光」
+里夏「Scorch by Hot Summer」
+里夏「异常酷暑之焦土」
+里秋「Die of Famine」
+里秋「异常枯死之饿鬼」
+里冬「Black Snowman」
+里冬「异常降雪之雪人」
+里春「April Wizard」
+里春「异常落花之魔术使」
+「里·Breezy Cherry Blossom」
+「里·Perfect Summer Ice」
+「里·Crazy Fall Wind」
+「里·Extreme Winter」
+秘仪「Reverse Invoker」
+秘仪「背叛的后方射击」
+秘仪「弹幕的玉茧」
+秘仪「秽那之火」
+秘仪「后户的狂言」
+秘仪「Matarah Dukkha」
+秘仪「七星之剑」
+秘仪「无纽带的艺人」
+「背面的暗黑猿乐」
+「Anarchy Bullet Hell」
+「Luminous Ricochet」
+「我的世界」
+「Stardust Reverie」
+「Event Horizon」
+「Final Spark」
+「Double Spark」
+「Queen of Midnight」
+梦符「幻想一重」
