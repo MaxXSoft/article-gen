@@ -3,7 +3,7 @@ import random, pickle
 
 class ArticleGen(object):
     def __init__(self, dump_file='', show_progress=False, separator='',
-                 use_weight=True, prop_prop=0.5):
+                 use_weight=True, pos_prop=0.5):
         self.__wordlist = wordlist.WordList()
         self.__word_freq = wordfreq.WordFreq()
         self.__sentence = sentence.SentenceGen()
@@ -11,7 +11,7 @@ class ArticleGen(object):
         self.show_progress = show_progress
         self.separator = separator
         self.use_weight = use_weight
-        self.prop_prop = prop_prop
+        self.pos_prop = pos_prop
 
     def load(self, file_list):
         self.__wordlist.show_progress = self.show_progress
@@ -53,7 +53,7 @@ class ArticleGen(object):
             length = random.randint(10, 50)
         self.__sentence.separator = self.separator
         self.__sentence.use_weight = self.use_weight
-        self.__sentence.prop_prop = self.prop_prop
+        self.__sentence.pos_prop = self.pos_prop
         self.__sentence.word_freq = self.__word_freq
         if self.__word_freq:
             for i in range(length):

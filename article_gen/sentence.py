@@ -2,12 +2,12 @@ import wordfreq
 import random, sys
 
 class SentenceGen(object):
-    def __init__(self, separator='', use_weight=True, prop_prop=0.5):
+    def __init__(self, separator='', use_weight=True, pos_prop=0.5):
         self.__head_candidate = {}
         self.__word_cand_dict = {}
         self.separator = separator
         self.use_weight = use_weight
-        self.prop_prop = prop_prop
+        self.pos_prop = pos_prop
         self.word_freq = wordfreq.WordFreq()
         self.new_seed()
 
@@ -33,13 +33,13 @@ class SentenceGen(object):
         random.seed(self.__seed)
         return self.__seed
 
-    def __get_candidate(self, word_dict, prop_dict):
+    def __get_candidate(self, word_dict, pos_dict):
         candidate = {}
         for word, count in word_dict.items():
-            prop = self.word_freq.word_prop[word]
-            prop_count = prop_dict.get(prop, 0)
-            candidate[word] = int(count * (1 - self.prop_prop) + \
-                                  prop_count * self.prop_prop)
+            pos = self.word_freq.word_pos[word]
+            pos_count = pos_dict.get(pos, 0)
+            candidate[word] = int(count * (1 - self.pos_prop) + \
+                                  pos_count * self.pos_prop)
         return candidate
 
     def __word_choice(self, candidate):
@@ -49,23 +49,23 @@ class SentenceGen(object):
     def head(self):
         if not self.__head_candidate:
             self.__head_candidate = self.__get_candidate(
-                    self.word_freq.head_word, self.word_freq.head_prop)
+                    self.word_freq.head_word, self.word_freq.head_pos)
         return self.__word_choice(self.__head_candidate)
 
     def next(self):
         sentence = ''
         new_word = self.head()
-        new_prop = self.word_freq.word_prop[new_word]
-        while new_prop != 'x':
+        new_pos = self.word_freq.word_pos[new_word]
+        while new_pos != 'x':
             sentence += new_word + self.separator
             candidate = self.__word_cand_dict.get(new_word)
             if not candidate:
                 word_dict = self.word_freq.next_word[new_word]
-                prop_dict = self.word_freq.next_prop[new_prop]
-                candidate = self.__get_candidate(word_dict, prop_dict)
+                pos_dict = self.word_freq.next_pos[new_pos]
+                candidate = self.__get_candidate(word_dict, pos_dict)
                 self.__word_cand_dict[new_word] = candidate
             new_word = self.__word_choice(candidate)
-            new_prop = self.word_freq.word_prop[new_word]
+            new_pos = self.word_freq.word_pos[new_word]
         return sentence + new_word + self.separator
 
 if __name__ == '__main__':
