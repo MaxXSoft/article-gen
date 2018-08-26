@@ -20,7 +20,7 @@ def main():
     parser.add_argument('-l', '--load', default='',
                         help='load word data from dump file')
     parser.add_argument('-pp', '--proportion', default=0.5, type=float,
-                        help='set the proportion of impact of POS')
+                        help='set the proportion of impact of parts of speech')
     parser.add_argument('-p', '--print', action='store_true',
                         help='print progress information while scanning file')
     parser.add_argument('-sep', '--separator', action='store_const',
